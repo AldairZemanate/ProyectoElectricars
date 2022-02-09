@@ -9,6 +9,8 @@ graphene-django = "*"
 pillow = "*"
 django-filter = "*"
 django-graphql-jwt = "*"
+django-jet = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
